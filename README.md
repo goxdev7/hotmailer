@@ -18,4 +18,6 @@ kütüphaneler:
 
 unuttum importlara bakarak halledersiniz.
 
+error verirse chatgpt'ye sorun ama kod şuanda hatasız.
+
 https://cdn.discordapp.com/attachments/1147823266640175187/1361411641606017084/image.png?ex=67fea8e5&is=67fd5765&hm=42eab1cb8cf586635efc08be09ba2e0966ba980f103de74359600ec53e8ab9dc&format=webp&quality=lossless
